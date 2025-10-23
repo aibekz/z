@@ -8,8 +8,8 @@ const sourceCodePro = Source_Code_Pro({
 });
 
 export const metadata: Metadata = {
-  title: "DevZCodes",
-  description: "DevZCodes – Software Engineer",
+  title: "Devzcodes",
+  description: "Devzcodes – Software Engineer",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",

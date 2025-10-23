@@ -8,13 +8,13 @@ export default function Home() {
         <div className="flex items-center justify-center gap-6">
           <Image
             src="/favicon.svg"
-            alt="DevZ Logo"
+            alt="Devzcodes Logo"
             width={80}
             height={80}
             className="w-20 h-20"
           />
           <h1 className="text-4xl font-bold text-black dark:text-white">
-            DevZCodes
+            Devzcodes
           </h1>
         </div>
         
