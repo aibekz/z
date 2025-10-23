@@ -23,7 +23,7 @@ export default function Home() {
             href="https://x.com/devzcodes" 
             target="_blank" 
             rel="noopener noreferrer"
-            className="text-gray-600 hover:text-black dark:text-gray-400 dark:hover:text-white transition-colors"
+            className="text-white hover:text-black dark:text-white dark:hover:text-gray-400 transition-colors"
           >
             <FaXTwitter size={32} />
           </a>
@@ -31,7 +31,7 @@ export default function Home() {
             href="https://threads.net/@devzcodes" 
             target="_blank" 
             rel="noopener noreferrer"
-            className="text-gray-600 hover:text-black dark:text-gray-400 dark:hover:text-white transition-colors"
+            className="text-white hover:text-black dark:text-white dark:hover:text-gray-400 transition-colors"
           >
             <FaThreads size={32} />
           </a>
@@ -39,7 +39,7 @@ export default function Home() {
             href="https://instagram.com/devzcodes" 
             target="_blank" 
             rel="noopener noreferrer"
-            className="text-gray-600 hover:text-black dark:text-gray-400 dark:hover:text-white transition-colors"
+            className="text-white hover:text-black dark:text-white dark:hover:text-gray-400 transition-colors"
           >
             <FaInstagram size={32} />
           </a>
@@ -47,7 +47,7 @@ export default function Home() {
             href="https://bsky.app/profile/devzcodes.bsky.social" 
             target="_blank" 
             rel="noopener noreferrer"
-            className="text-gray-600 hover:text-black dark:text-gray-400 dark:hover:text-white transition-colors"
+            className="text-white hover:text-black dark:text-white dark:hover:text-gray-400 transition-colors"
           >
             <FaBluesky size={32} />
           </a>
